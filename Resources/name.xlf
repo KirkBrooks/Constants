@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+
+  <file datatype="x-4DK#" original="x-undefined" source-language="x-none" target-language="x-none">
+    <body>
+      <group resname="themes">
+        <trans-unit id="thm_0" resname="276BCF435C3C4742B6B3C269085DD2F1" translate="no">
+          <source>My First Group</source>
+        </trans-unit>
+        <trans-unit id="thm_1" resname="51E8AAEF119F441BAAC57BD9A5A697FC" translate="no">
+          <source>My_Group</source>
+        </trans-unit>
+      </group>
+      <group d4:groupName="276BCF435C3C4742B6B3C269085DD2F1" restype="x-4DK#">
+        <trans-unit d4:value="a:S" id="k_0">
+          <source>DS_k_1</source>
+        </trans-unit>
+        <trans-unit d4:value="b:S" id="k_1">
+          <source>DS_k_2</source>
+        </trans-unit>
+        <trans-unit d4:value="c:S" id="k_2">
+          <source>DS_k_3</source>
+        </trans-unit>
+        <trans-unit d4:value="id:S" id="k_3">
+          <source>DS_account_id</source>
+        </trans-unit>
+        <trans-unit d4:value="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.:S" id="k_4">
+          <source>DSlorem</source>
+        </trans-unit>
+      </group>
+      <group d4:groupName="51E8AAEF119F441BAAC57BD9A5A697FC" restype="x-4DK#">
+        <trans-unit d4:value="b:S" id="k_5">
+          <source>DS_k_5</source>
+        </trans-unit>
+        <trans-unit d4:value="a:S" id="k_6">
+          <source>DS_k_4</source>
+        </trans-unit>
+        <trans-unit d4:value="c:S" id="k_7">
+          <source>DS_k_6</source>
+        </trans-unit>
+        <trans-unit d4:value="700.05:R" id="k_8">
+          <source>DS_k_7</source>
+        </trans-unit>
+        <trans-unit d4:value="700.05:S" id="k_9">
+          <source>DS_k_8</source>
+        </trans-unit>
+        <trans-unit d4:value="700:L" id="k_10">
+          <source>DS_k_9</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+
+</xliff>
