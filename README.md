@@ -6,4 +6,5 @@ I borrowed heavily from Cannon Smith's tech note: https://kb.4d.com/assetid=7780
 
 This class allows you to create constants files for 4D databases from a method.
 
-![image-20220513150225037](/Users/kirk/Library/Application Support/typora-user-images/image-20220513150225037.png)
+![image](https://user-images.githubusercontent.com/831199/168395195-63d4d266-1046-49c7-930d-ed5e1b56acaa.png)
+
